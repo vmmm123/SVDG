@@ -1,7 +1,7 @@
 # Style-Invariant Domain Generalization Via Contrastive Learning
 This is the pytorch implementation of the paper "Style-Invariant Domain Generalization Via Contrastive Learning".
 
-##Requirements
+## Requirements
 
 * A Python install version 3.7
 * A PyTorch and torchvision installation version 1.7.0 and 0.8.1, respectively.
