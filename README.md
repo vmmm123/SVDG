@@ -17,4 +17,4 @@ This is the pytorch implementation of the paper "Style-Invariant Domain Generali
     * target: the  target domain while the rest domians are used for training
     
                                               
-Note：We make a mistake in the paper that α(alpha) should be 0.5 to obtain the best results.
+Note：We make a mistake in the paper that α(alpha) should be 0.5 rather than 1 to obtain the best results.
