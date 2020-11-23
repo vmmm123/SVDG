@@ -9,7 +9,7 @@ This is the pytorch implementation of the paper "Style-Invariant Domain Generali
 ## Running experiments
 * This repo uses PACS on AlexNet as an illustrative example:   
     *   The caffe model we used for [AlexNet](https://drive.google.com/file/d/1wUJTH1Joq2KAgrUDeKJghP1Wf7Q9w4z-/view?usp=sharing). Once downloaded, move it into ./alexnet_caffe.pth.tar
-    *  [PACS dataset](http://www.eecs.qmul.ac.uk/~dl307/project_iccv2017)
+    *  [PACS dataset](http://www.eecs.qmul.ac.uk/~dl307/project_iccv2017). Download Raw images for training.
 * You can train the model from scratch 
     * python main.py --data_dir your_data_dir --checkpoint_dir your_save_root  --target sketch 
     * your_data_dir: the dataset directory
